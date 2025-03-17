@@ -1,6 +1,6 @@
 {
   "name": "@sivashankarmadhan/positeasy-button",
-  "version": "0.0.18",
+  "version": "0.0.1",
   "type": "module",
   "main": "src/index.js",
   "module": "src/index.js",
